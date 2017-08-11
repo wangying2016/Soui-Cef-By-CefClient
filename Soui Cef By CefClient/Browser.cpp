@@ -267,12 +267,16 @@ void Browser::sendMouseClickEvent(UINT uMsg, WPARAM wp, LPARAM lp)
 	CefMouseEvent evt;
 	CefBrowserHost::MouseButtonType mt = MBT_LEFT;
 	bool bMouseUp = false;
+	int  nClickCount = 1;
 	switch (uMsg)
 	{
 	case WM_LBUTTONUP:
 		bMouseUp = true;
 	case WM_LBUTTONDOWN:
 		mt = MBT_LEFT;
+		break;
+	case WM_LBUTTONDBLCLK:
+		nClickCount = 2;
 		break;
 	case WM_MBUTTONUP:
 		bMouseUp = true;
@@ -288,9 +292,9 @@ void Browser::sendMouseClickEvent(UINT uMsg, WPARAM wp, LPARAM lp)
 	CRect rcClient = web_view_->GetClientRect();
 	CPoint pt(GET_X_LPARAM(lp), GET_Y_LPARAM(lp));
 	evt.x = ptMouse_.x = pt.x - rcClient.left;
-	evt.y = ptMouse_.y = pt.y - rcClient.top;	
+	evt.y = ptMouse_.y = pt.y - rcClient.top;
 	evt.modifiers = GetCefMouseModifiers(wp);
-	host->SendMouseClickEvent(evt, mt, bMouseUp, 0);
+	host->SendMouseClickEvent(evt, mt, bMouseUp, nClickCount);
 }
 
 void Browser::sendFocusEvent(bool focus)
