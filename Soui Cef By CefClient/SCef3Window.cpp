@@ -107,4 +107,18 @@ BOOL SCef3Window::OnSetCursor(const CPoint &pt)
 	return TRUE;
 }
 
+void SCef3Window::LoadURL(SStringW strURL)
+{
+	if (strURL.GetLength() != 0)
+		m_strUrl = strURL;
+	if (m_pBrowser)
+		m_pBrowser->loadURL(m_strUrl);
+}
+
+void SCef3Window::ExecuteJS(SStringW strValue)
+{
+	if (m_pBrowser && strValue.GetLength() != 0)
+		m_pBrowser->executeJS(strValue, m_strUrl, 0);
+}
+
 }

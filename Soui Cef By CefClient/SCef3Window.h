@@ -10,10 +10,12 @@ public:
 	SCef3Window();
 	virtual ~SCef3Window();
 
-	virtual BOOL OnSetCursor(const CPoint &pt) OVERRIDE;
+	void LoadURL(SStringW strURL);
+	void ExecuteJS(SStringW strValue);
 
 protected:
 	BOOL OnAttrUrl(SStringW strValue, BOOL bLoading);
+
 	SOUI_ATTRS_BEGIN()
 		ATTR_CUSTOM(L"url", OnAttrUrl)
 	SOUI_ATTRS_END()
@@ -30,6 +32,7 @@ protected:
 	LRESULT OnMouseEvent(UINT uMsg, WPARAM wParam, LPARAM lParam);
 	LRESULT OnKeyEvent(UINT uMsg, WPARAM wParam, LPARAM lParam);
 	LRESULT OnImeStartComposition(UINT uMsg, WPARAM wParam, LPARAM lParam);
+	virtual BOOL OnSetCursor(const CPoint &pt) OVERRIDE;
 
 	SOUI_MSG_MAP_BEGIN()
 		MSG_WM_CREATE(OnCreate)
