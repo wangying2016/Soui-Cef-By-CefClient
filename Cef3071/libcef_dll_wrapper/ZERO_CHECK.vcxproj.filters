@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll_wrapper\CMakeFiles\4164528a12cf7bef7f20880dd97e7f53\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{40FAAE91-1E44-372A-8C40-5BFD0E82072D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
