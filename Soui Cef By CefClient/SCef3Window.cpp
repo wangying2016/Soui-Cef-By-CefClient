@@ -7,8 +7,7 @@ namespace SOUI
 
 SCef3Window::SCef3Window()
 {
-	SASSERT(SOUI::Cef3Loader::GetInstance());
-
+	SASSERT(Cef3Loader::bInitialized);
 	m_pBrowser = new Browser;
 	m_pBrowser->AddRef();
 	m_pBrowser->setHost(this);

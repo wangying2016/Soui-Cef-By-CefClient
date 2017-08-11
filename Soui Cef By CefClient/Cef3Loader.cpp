@@ -2,15 +2,13 @@
 #include "Cef3Loader.h"
 #include "include/cef_app.h"
 
-
 namespace SOUI
 {
-	Cef3Loader *Cef3Loader::s_Inst = NULL;
+	bool Cef3Loader::bInitialized = false;
 
-	Cef3Loader::Cef3Loader(const char *locate)
+	void Cef3Loader::Initialize()
 	{
-		SASSERT(s_Inst == NULL);
-
+		SASSERT(!bInitialized);
 		CefMainArgs args;
 
 		// cef settings
@@ -24,27 +22,12 @@ namespace SOUI
 		CefString(&settings.browser_subprocess_path) = strAppPath;
 
 		// cef locate 
-		if (!locate)
-			locate = "zh-CN";
-		CefString(&settings.locale) = locate;
+		CefString(&settings.locale) = "zh-CN";
 
 		// cef initialize
 		BOOL bOK = CefInitialize(args, settings, NULL, NULL);
-		SASSERT(bOK);
-		s_Inst = this;
+		bInitialized = true;
 	}
-
-	Cef3Loader* Cef3Loader::GetInstance()
-	{
-		return s_Inst;
-	}
-
-	Cef3Loader::~Cef3Loader()
-	{
-		s_Inst = NULL;
-	}
-
-
 
 	void Cef3Loader::DoMessageLoop()
 	{
