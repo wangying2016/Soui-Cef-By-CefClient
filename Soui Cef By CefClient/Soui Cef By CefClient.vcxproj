@@ -171,7 +171,10 @@
     <Text Include="readme.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Browser.cpp" />
+    <ClCompile Include="Cef3Loader.cpp" />
     <ClCompile Include="MainDlg.cpp" />
+    <ClCompile Include="SCef3Window.cpp" />
     <ClCompile Include="Soui Cef By CefClient.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
@@ -184,8 +187,11 @@
     <ResourceCompile Include="Soui Cef By CefClient.rc" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Browser.h" />
+    <ClInclude Include="Cef3Loader.h" />
     <ClInclude Include="MainDlg.h" />
     <ClInclude Include="resource.h" />
+    <ClInclude Include="SCef3Window.h" />
     <ClInclude Include="stdafx.h" />
   </ItemGroup>
   <ItemGroup>
