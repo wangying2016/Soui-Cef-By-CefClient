@@ -336,6 +336,11 @@ CRect Browser::getCaret()
 	return caret;
 }
 
+void Browser::OnBeforeClose(CefRefPtr<CefBrowser> browser)
+{
+	
+}
+
 bool Browser::OnSetFocus(CefRefPtr<CefBrowser> browser, FocusSource source)
 {
 	web_view_ ? web_view_->SetFocus() : 0;

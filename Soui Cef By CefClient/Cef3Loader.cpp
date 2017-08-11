@@ -41,12 +41,18 @@ namespace SOUI
 
 	Cef3Loader::~Cef3Loader()
 	{
-		CefShutdown();
 		s_Inst = NULL;
 	}
+
+
 
 	void Cef3Loader::DoMessageLoop()
 	{
 		CefDoMessageLoopWork();
+	}
+
+	void Cef3Loader::ShutDown()
+	{
+		CefShutdown();
 	}
 }

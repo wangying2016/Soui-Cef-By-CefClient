@@ -10,10 +10,7 @@ public:
 	SCef3Window();
 	virtual ~SCef3Window();
 
-
 	virtual BOOL OnSetCursor(const CPoint &pt) OVERRIDE;
-
-
 
 protected:
 	BOOL OnAttrUrl(SStringW strValue, BOOL bLoading);
@@ -25,8 +22,8 @@ protected:
 	void OnDestroy();
 	void OnSize(UINT nType, CSize size);
 	void OnPaint(IRenderTarget *pRT);
-	void OnSetFocus();
-	void OnKillFocus();
+	void OnSetFocus(SWND wndOld);
+	void OnKillFocus(SWND wndFocus);
 
 	LRESULT OnMouseMove(UINT uMsg, WPARAM wParam, LPARAM lParam);
 	LRESULT OnMouseWheel(UINT uMsg, WPARAM wParam, LPARAM lParam);
@@ -39,8 +36,8 @@ protected:
 		MSG_WM_DESTROY(OnDestroy)
 		MSG_WM_SIZE(OnSize)
 		MSG_WM_PAINT_EX(OnPaint)
-		// MSG_WM_SETFOCUS_EX(OnSetFocus)
-		// MSG_WM_KILLFOCUS_EX(OnKillFocus)
+		MSG_WM_SETFOCUS_EX(OnSetFocus)
+		MSG_WM_KILLFOCUS_EX(OnKillFocus)
 		MESSAGE_HANDLER_EX(WM_MOUSEMOVE, OnMouseMove)
 		MESSAGE_HANDLER_EX(WM_MOUSEWHEEL, OnMouseWheel)
 		MESSAGE_RANGE_HANDLER_EX(WM_MOUSEFIRST, 0x209, OnMouseEvent)

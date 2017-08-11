@@ -59,9 +59,7 @@ public:
 	virtual bool DoClose(CefRefPtr<CefBrowser> browser) OVERRIDE {
 		return false;
 	}
-	virtual void OnBeforeClose(CefRefPtr<CefBrowser> browser) OVERRIDE {
-		
-	}
+	virtual void OnBeforeClose(CefRefPtr<CefBrowser> browser) OVERRIDE;
 	virtual bool OnBeforePopup(CefRefPtr<CefBrowser> browser,
 							   CefRefPtr<CefFrame> frame,
 		                       const CefString& target_url,

@@ -88,12 +88,12 @@ LRESULT SCef3Window::OnKeyEvent(UINT uMsg, WPARAM wParam, LPARAM lParam)
 	return 0;
 }
 
-void SCef3Window::OnSetFocus()
+void SCef3Window::OnSetFocus(SWND wndOld)
 {
 	m_pBrowser->sendFocusEvent(true);
 }
 
-void SCef3Window::OnKillFocus()
+void SCef3Window::OnKillFocus(SWND wndFocus)
 {
 	m_pBrowser->sendFocusEvent(false);
 }

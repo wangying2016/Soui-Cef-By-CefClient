@@ -7,13 +7,13 @@ namespace SOUI
 	class Cef3Loader
 	{
 	public:
-		Cef3Loader(const char *locate);
-
-		// get Cef3Loader pointer
 		static Cef3Loader *GetInstance();
-
+		
+		Cef3Loader(const char *locate);
 		virtual ~Cef3Loader();
+
 		void DoMessageLoop();
+		void ShutDown();
 
 	protected:
 		static Cef3Loader *s_Inst;
