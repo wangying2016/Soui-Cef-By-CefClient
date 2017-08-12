@@ -35,10 +35,16 @@
     <ClCompile Include="Cef3Loader.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Browser.cpp">
+    <ClCompile Include="browser\Browser.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="SCef3Window.cpp">
+    <ClCompile Include="controls\SCef3Window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="common\ClientApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="event\HTMLEventHandler.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -60,10 +66,19 @@
     <ClInclude Include="Cef3Loader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Browser.h">
+    <ClInclude Include="browser\Browser.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="SCef3Window.h">
+    <ClInclude Include="controls\SCef3Window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="event\ExtendEvents.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="common\ClientApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="event\HTMLEventHandler.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -3,7 +3,8 @@
 namespace SOUI
 {
 
-class SCef3Window : public SWindow
+class SCef3Window : public SWindow,
+		            public MessageHandler
 {
 	SOUI_CLASS_NAME(SCef3Window, L"cef3")
 public:
@@ -12,6 +13,13 @@ public:
 
 	void LoadURL(SStringW strURL);
 	void ExecuteJS(SStringW strValue);
+
+protected:
+	// Browser::OnBrowserMessage
+	virtual bool OnBrowserMessage (
+		CefRefPtr<CefBrowser> browser,
+		CefProcessId source_process,
+		CefRefPtr<CefProcessMessage> message) OVERRIDE;
 
 protected:
 	BOOL OnAttrUrl(SStringW strValue, BOOL bLoading);

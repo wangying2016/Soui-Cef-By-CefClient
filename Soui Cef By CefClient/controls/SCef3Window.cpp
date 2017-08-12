@@ -1,6 +1,6 @@
 #include "stdafx.h"
 #include "SCef3Window.h"
-#include "Cef3Loader.h"
+#include "../Cef3Loader.h"
 
 namespace SOUI
 {
@@ -8,6 +8,7 @@ namespace SOUI
 SCef3Window::SCef3Window()
 {
 	SASSERT(Cef3Loader::bInitialized);
+	m_evtSet.addEvent(EVENTID(EventWebViewNotify));
 	m_pBrowser = new Browser;
 	m_pBrowser->AddRef();
 	m_pBrowser->setHost(this);
@@ -25,6 +26,7 @@ int SCef3Window::OnCreate(LPVOID)
 	if (!bOK) return -1;
 	if (m_strUrl.IsEmpty() == FALSE)
 		m_pBrowser->loadURL(m_strUrl);
+	m_pBrowser->RegisterMessageHandler(this);
 	return 0;
 }
 
@@ -43,7 +45,10 @@ BOOL SCef3Window::OnAttrUrl(SStringW strValue, BOOL bLoading)
 
 void SCef3Window::OnDestroy()
 {
-	if (m_pBrowser) m_pBrowser->close();
+	if (m_pBrowser) {
+		m_pBrowser->close();
+		m_pBrowser->UnRegisterMessgeHandler();
+	}
 	SWindow::OnDestroy();
 }
 
@@ -119,6 +124,23 @@ void SCef3Window::ExecuteJS(SStringW strValue)
 {
 	if (m_pBrowser && strValue.GetLength() != 0)
 		m_pBrowser->executeJS(strValue, m_strUrl, 0);
+}
+
+bool SCef3Window::OnBrowserMessage(
+	CefRefPtr<CefBrowser> browser,
+	CefProcessId source_process,
+	CefRefPtr<CefProcessMessage> message)
+{
+	EventWebViewNotify evt(this);
+
+	evt.MessageName = message->GetName().ToWString().c_str();
+	CefRefPtr<CefListValue> arg = message->GetArgumentList();
+
+	for (size_t i = 0; i < arg->GetSize(); ++i) {
+		SStringW str = arg->GetString(i).ToWString().c_str();
+		evt.Arguments.Add(str);
+	}
+	return !!FireEvent(evt);
 }
 
 }

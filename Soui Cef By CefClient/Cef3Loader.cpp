@@ -9,7 +9,7 @@ namespace SOUI
 	void Cef3Loader::Initialize()
 	{
 		SASSERT(!bInitialized);
-		CefMainArgs args;
+		CefMainArgs args(GetModuleHandle(NULL));
 
 		// cef settings
 		CefSettings settings;
@@ -20,9 +20,19 @@ namespace SOUI
 		SStringW strAppPath;
 		strAppPath = _T("cefclient.exe");
 		CefString(&settings.browser_subprocess_path) = strAppPath;
+		settings.windowless_rendering_enabled = true;
+		settings.single_process = false;
 
 		// cef locate 
 		CefString(&settings.locale) = "zh-CN";
+
+		// cef app
+		/*CefRefPtr<ClientApp> app(new ClientApp);*/
+
+		// cef run multi processes
+		/*int exit_code = CefExecuteProcess(args, app.get(), NULL);
+		if (exit_code >= 0)
+			return;*/
 
 		// cef initialize
 		BOOL bOK = CefInitialize(args, settings, NULL, NULL);

@@ -5,10 +5,19 @@
 
 namespace SOUI {
 
+// Post javascript messsage to ui
+class MessageHandler {
+public:
+	virtual bool OnBrowserMessage(CefRefPtr<CefBrowser> browser,
+			                      CefProcessId source_process,
+			                      CefRefPtr<CefProcessMessage> message) = 0;
+};
+
 class Browser : public CefClient,
 				public CefLifeSpanHandler,
 				public CefRenderHandler,
-				public CefFocusHandler
+				public CefFocusHandler,
+				public CefDisplayHandler
 {
 public:
 	Browser();
@@ -38,15 +47,20 @@ public:
 	CRect getCaret();
 
 	// client methods
-	virtual CefRefPtr<CefLifeSpanHandler> GetLifeSpanHandler() OVERRIDE {
-		return this;
+	virtual CefRefPtr<CefLifeSpanHandler> GetLifeSpanHandler() OVERRIDE { return this; }
+	virtual CefRefPtr<CefRenderHandler> GetRenderHandler()     OVERRIDE { return this; }
+	virtual CefRefPtr<CefFocusHandler> GetFocusHandler()       OVERRIDE { return this; }
+	virtual CefRefPtr<CefDisplayHandler> GetDisplayHandler()   OVERRIDE { return this; }
+	virtual bool OnProcessMessageReceived(CefRefPtr<CefBrowser> browser,
+		                                  CefProcessId source_process,
+		                                  CefRefPtr<CefProcessMessage> message) {
+		if (m_pMsgHandler)
+			return m_pMsgHandler->OnBrowserMessage(browser, source_process, message);
 	}
-	virtual CefRefPtr<CefRenderHandler> GetRenderHandler() OVERRIDE {
-		return this;
-	}
-	virtual CefRefPtr<CefFocusHandler> GetFocusHandler() OVERRIDE {
-		return this;
-	}
+
+	// Post javascript message to ui
+	void RegisterMessageHandler(MessageHandler * handler);
+	void UnRegisterMessgeHandler();
 
 	// CefFocusHandler methods
 	virtual bool OnSetFocus(CefRefPtr<CefBrowser> browser, FocusSource source) OVERRIDE;
@@ -86,6 +100,9 @@ public:
 		                        CefCursorHandle cursor,
 		                        CursorType type,
 		                        const CefCursorInfo& custom_cursor_info) OVERRIDE;
+	// CefDisplayHandler methods
+	virtual void OnTitleChange(CefRefPtr<CefBrowser> browser,
+		                       const CefString& title) OVERRIDE; 
 
 protected:
 	// get main frame
@@ -104,6 +121,7 @@ private:
 	CAutoRefPtr<IBitmap> pixmap_;
 	CPoint ptMouse_;
 	bool skip_cursor_;
+	MessageHandler *m_pMsgHandler;
 	IMPLEMENT_REFCOUNTING(Browser);
 	friend class SCef3Window;
 };

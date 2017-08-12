@@ -11,7 +11,9 @@ namespace SOUI
 	if (!host)									\
 	return										\
 
-Browser::Browser() : skip_cursor_(true), web_view_(NULL)
+Browser::Browser() : skip_cursor_(true), 
+                     web_view_(NULL),
+	                 m_pMsgHandler(NULL)
 {
 
 }
@@ -345,6 +347,16 @@ void Browser::OnBeforeClose(CefRefPtr<CefBrowser> browser)
 	
 }
 
+void Browser::RegisterMessageHandler(MessageHandler * handler)
+{
+	m_pMsgHandler = handler;
+}
+
+void Browser::UnRegisterMessgeHandler()
+{
+	m_pMsgHandler = NULL;
+}
+
 bool Browser::OnSetFocus(CefRefPtr<CefBrowser> browser, FocusSource source)
 {
 	web_view_ ? web_view_->SetFocus() : 0;
@@ -382,6 +394,12 @@ void Browser::OnCursorChange(CefRefPtr<CefBrowser> browser,
 	                         CursorType type, 
 	                         const CefCursorInfo& custom_cursor_info) {
 	if (!skip_cursor_) ::SetCursor(cursor);
+}
+
+void Browser::OnTitleChange(CefRefPtr<CefBrowser> browser,
+	                        const CefString& title)
+{
+	// TODO: Set Browser Title
 }
 
 void Browser::adjustPixmap(int width, int height)
