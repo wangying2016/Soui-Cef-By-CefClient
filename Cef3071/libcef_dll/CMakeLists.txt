@@ -685,7 +685,7 @@ add_library(${CEF_TARGET}
   ${LIBCEF_INCLUDE_WRAPPER_SRCS}
   ${LIBCEF_WRAPPER_SRCS}
   )
-#SET_LIBRARY_TARGET_PROPERTIES(${CEF_TARGET})
+# SET_LIBRARY_TARGET_PROPERTIES(${CEF_TARGET})
 
 # Creating the CEF wrapper library. Do not define this for dependent targets.
 target_compile_definitions(${CEF_TARGET} PRIVATE -DWRAPPING_CEF_SHARED)

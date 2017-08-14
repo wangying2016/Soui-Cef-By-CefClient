@@ -1,1695 +1,1695 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\transfer_util.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\transfer_util.cc">
       <Filter>libcef_dll</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_atomicops_x86_gcc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_atomicops_x86_gcc.cc">
       <Filter>libcef_dll\base</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_bind_helpers.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_bind_helpers.cc">
       <Filter>libcef_dll\base</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_callback_helpers.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_callback_helpers.cc">
       <Filter>libcef_dll\base</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_callback_internal.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_callback_internal.cc">
       <Filter>libcef_dll\base</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_lock.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_lock.cc">
       <Filter>libcef_dll\base</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_lock_impl.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_lock_impl.cc">
       <Filter>libcef_dll\base</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_logging.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_logging.cc">
       <Filter>libcef_dll\base</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_ref_counted.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_ref_counted.cc">
       <Filter>libcef_dll\base</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_string16.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_string16.cc">
       <Filter>libcef_dll\base</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_thread_checker_impl.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_thread_checker_impl.cc">
       <Filter>libcef_dll\base</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_thread_collision_warner.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_thread_collision_warner.cc">
       <Filter>libcef_dll\base</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_weak_ptr.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\base\cef_weak_ptr.cc">
       <Filter>libcef_dll\base</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\accessibility_handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\accessibility_handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\app_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\app_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\base_ref_counted_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\base_ref_counted_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\base_scoped_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\base_scoped_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\browser_process_handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\browser_process_handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\client_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\client_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\completion_callback_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\completion_callback_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\context_menu_handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\context_menu_handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\cookie_visitor_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\cookie_visitor_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\delete_cookies_callback_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\delete_cookies_callback_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\dialog_handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\dialog_handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\display_handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\display_handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\domvisitor_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\domvisitor_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\download_handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\download_handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\download_image_callback_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\download_image_callback_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\drag_handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\drag_handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\end_tracing_callback_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\end_tracing_callback_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\find_handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\find_handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\focus_handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\focus_handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\geolocation_handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\geolocation_handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\get_geolocation_callback_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\get_geolocation_callback_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\jsdialog_handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\jsdialog_handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\keyboard_handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\keyboard_handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\life_span_handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\life_span_handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\load_handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\load_handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\menu_model_delegate_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\menu_model_delegate_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\navigation_entry_visitor_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\navigation_entry_visitor_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\pdf_print_callback_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\pdf_print_callback_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\print_handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\print_handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\read_handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\read_handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\register_cdm_callback_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\register_cdm_callback_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\render_handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\render_handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\render_process_handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\render_process_handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\request_context_handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\request_context_handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\request_handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\request_handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\resolve_callback_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\resolve_callback_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\resource_bundle_handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\resource_bundle_handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\resource_handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\resource_handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\response_filter_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\response_filter_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\run_file_dialog_callback_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\run_file_dialog_callback_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\scheme_handler_factory_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\scheme_handler_factory_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\set_cookie_callback_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\set_cookie_callback_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\string_visitor_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\string_visitor_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\task_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\task_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\urlrequest_client_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\urlrequest_client_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\v8accessor_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\v8accessor_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\v8handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\v8handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\v8interceptor_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\v8interceptor_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\web_plugin_info_visitor_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\web_plugin_info_visitor_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\web_plugin_unstable_callback_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\web_plugin_unstable_callback_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\write_handler_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\write_handler_cpptoc.cc">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\test\translator_test_ref_ptr_client_child_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\test\translator_test_ref_ptr_client_child_cpptoc.cc">
       <Filter>libcef_dll\cpptoc\test</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\test\translator_test_ref_ptr_client_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\test\translator_test_ref_ptr_client_cpptoc.cc">
       <Filter>libcef_dll\cpptoc\test</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\test\translator_test_scoped_client_child_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\test\translator_test_scoped_client_child_cpptoc.cc">
       <Filter>libcef_dll\cpptoc\test</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\test\translator_test_scoped_client_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\test\translator_test_scoped_client_cpptoc.cc">
       <Filter>libcef_dll\cpptoc\test</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\browser_view_delegate_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\browser_view_delegate_cpptoc.cc">
       <Filter>libcef_dll\cpptoc\views</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\button_delegate_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\button_delegate_cpptoc.cc">
       <Filter>libcef_dll\cpptoc\views</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\menu_button_delegate_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\menu_button_delegate_cpptoc.cc">
       <Filter>libcef_dll\cpptoc\views</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\panel_delegate_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\panel_delegate_cpptoc.cc">
       <Filter>libcef_dll\cpptoc\views</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\textfield_delegate_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\textfield_delegate_cpptoc.cc">
       <Filter>libcef_dll\cpptoc\views</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\view_delegate_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\view_delegate_cpptoc.cc">
       <Filter>libcef_dll\cpptoc\views</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\window_delegate_cpptoc.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\window_delegate_cpptoc.cc">
       <Filter>libcef_dll\cpptoc\views</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\auth_callback_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\auth_callback_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\before_download_callback_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\before_download_callback_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\binary_value_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\binary_value_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\browser_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\browser_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\browser_host_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\browser_host_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\callback_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\callback_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\command_line_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\command_line_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\context_menu_params_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\context_menu_params_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\cookie_manager_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\cookie_manager_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\dictionary_value_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\dictionary_value_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\domdocument_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\domdocument_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\domnode_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\domnode_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\download_item_callback_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\download_item_callback_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\download_item_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\download_item_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\drag_data_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\drag_data_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\file_dialog_callback_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\file_dialog_callback_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\frame_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\frame_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\geolocation_callback_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\geolocation_callback_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\image_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\image_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\jsdialog_callback_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\jsdialog_callback_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\list_value_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\list_value_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\menu_model_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\menu_model_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\navigation_entry_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\navigation_entry_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\post_data_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\post_data_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\post_data_element_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\post_data_element_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\print_dialog_callback_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\print_dialog_callback_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\print_job_callback_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\print_job_callback_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\print_settings_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\print_settings_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\process_message_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\process_message_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\request_callback_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\request_callback_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\request_context_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\request_context_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\request_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\request_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\resource_bundle_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\resource_bundle_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\response_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\response_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\run_context_menu_callback_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\run_context_menu_callback_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\scheme_registrar_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\scheme_registrar_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\select_client_certificate_callback_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\select_client_certificate_callback_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\sslinfo_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\sslinfo_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\sslstatus_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\sslstatus_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\stream_reader_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\stream_reader_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\stream_writer_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\stream_writer_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\task_runner_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\task_runner_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\thread_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\thread_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\urlrequest_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\urlrequest_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\v8context_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\v8context_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\v8exception_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\v8exception_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\v8stack_frame_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\v8stack_frame_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\v8stack_trace_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\v8stack_trace_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\v8value_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\v8value_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\value_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\value_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\waitable_event_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\waitable_event_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\web_plugin_info_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\web_plugin_info_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\x509cert_principal_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\x509cert_principal_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\x509certificate_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\x509certificate_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\xml_reader_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\xml_reader_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\zip_reader_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\zip_reader_ctocpp.cc">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_ctocpp.cc">
       <Filter>libcef_dll\ctocpp\test</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_ref_ptr_library_child_child_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_ref_ptr_library_child_child_ctocpp.cc">
       <Filter>libcef_dll\ctocpp\test</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_ref_ptr_library_child_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_ref_ptr_library_child_ctocpp.cc">
       <Filter>libcef_dll\ctocpp\test</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_ref_ptr_library_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_ref_ptr_library_ctocpp.cc">
       <Filter>libcef_dll\ctocpp\test</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_scoped_library_child_child_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_scoped_library_child_child_ctocpp.cc">
       <Filter>libcef_dll\ctocpp\test</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_scoped_library_child_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_scoped_library_child_ctocpp.cc">
       <Filter>libcef_dll\ctocpp\test</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_scoped_library_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_scoped_library_ctocpp.cc">
       <Filter>libcef_dll\ctocpp\test</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\box_layout_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\box_layout_ctocpp.cc">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\browser_view_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\browser_view_ctocpp.cc">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\button_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\button_ctocpp.cc">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\display_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\display_ctocpp.cc">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\fill_layout_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\fill_layout_ctocpp.cc">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\label_button_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\label_button_ctocpp.cc">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\layout_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\layout_ctocpp.cc">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\menu_button_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\menu_button_ctocpp.cc">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\panel_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\panel_ctocpp.cc">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\scroll_view_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\scroll_view_ctocpp.cc">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\textfield_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\textfield_ctocpp.cc">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\view_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\view_ctocpp.cc">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\window_ctocpp.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\window_ctocpp.cc">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper\cef_byte_read_handler.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper\cef_byte_read_handler.cc">
       <Filter>libcef_dll\wrapper</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper\cef_closure_task.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper\cef_closure_task.cc">
       <Filter>libcef_dll\wrapper</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper\cef_message_router.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper\cef_message_router.cc">
       <Filter>libcef_dll\wrapper</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper\cef_resource_manager.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper\cef_resource_manager.cc">
       <Filter>libcef_dll\wrapper</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper\cef_scoped_temp_dir.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper\cef_scoped_temp_dir.cc">
       <Filter>libcef_dll\wrapper</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper\cef_stream_resource_handler.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper\cef_stream_resource_handler.cc">
       <Filter>libcef_dll\wrapper</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper\cef_xml_object.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper\cef_xml_object.cc">
       <Filter>libcef_dll\wrapper</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper\cef_zip_archive.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper\cef_zip_archive.cc">
       <Filter>libcef_dll\wrapper</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper\libcef_dll_wrapper.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper\libcef_dll_wrapper.cc">
       <Filter>libcef_dll\wrapper</Filter>
     </ClCompile>
-    <ClCompile Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper\libcef_dll_wrapper2.cc">
+    <ClCompile Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper\libcef_dll_wrapper2.cc">
       <Filter>libcef_dll\wrapper</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ptr_util.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ptr_util.h">
       <Filter>libcef_dll</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\transfer_util.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\transfer_util.h">
       <Filter>libcef_dll</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper_types.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper_types.h">
       <Filter>libcef_dll</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\accessibility_handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\accessibility_handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\app_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\app_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\base_ref_counted_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\base_ref_counted_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\base_scoped_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\base_scoped_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\browser_process_handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\browser_process_handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\client_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\client_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\completion_callback_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\completion_callback_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\context_menu_handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\context_menu_handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\cookie_visitor_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\cookie_visitor_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\cpptoc_ref_counted.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\cpptoc_ref_counted.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\cpptoc_scoped.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\cpptoc_scoped.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\delete_cookies_callback_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\delete_cookies_callback_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\dialog_handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\dialog_handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\display_handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\display_handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\domvisitor_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\domvisitor_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\download_handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\download_handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\download_image_callback_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\download_image_callback_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\drag_handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\drag_handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\end_tracing_callback_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\end_tracing_callback_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\find_handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\find_handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\focus_handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\focus_handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\geolocation_handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\geolocation_handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\get_geolocation_callback_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\get_geolocation_callback_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\jsdialog_handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\jsdialog_handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\keyboard_handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\keyboard_handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\life_span_handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\life_span_handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\load_handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\load_handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\menu_model_delegate_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\menu_model_delegate_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\navigation_entry_visitor_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\navigation_entry_visitor_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\pdf_print_callback_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\pdf_print_callback_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\print_handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\print_handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\read_handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\read_handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\register_cdm_callback_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\register_cdm_callback_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\render_handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\render_handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\render_process_handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\render_process_handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\request_context_handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\request_context_handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\request_handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\request_handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\resolve_callback_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\resolve_callback_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\resource_bundle_handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\resource_bundle_handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\resource_handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\resource_handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\response_filter_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\response_filter_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\run_file_dialog_callback_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\run_file_dialog_callback_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\scheme_handler_factory_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\scheme_handler_factory_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\set_cookie_callback_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\set_cookie_callback_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\string_visitor_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\string_visitor_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\task_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\task_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\urlrequest_client_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\urlrequest_client_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\v8accessor_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\v8accessor_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\v8handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\v8handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\v8interceptor_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\v8interceptor_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\web_plugin_info_visitor_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\web_plugin_info_visitor_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\web_plugin_unstable_callback_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\web_plugin_unstable_callback_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\write_handler_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\write_handler_cpptoc.h">
       <Filter>libcef_dll\cpptoc</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\test\translator_test_ref_ptr_client_child_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\test\translator_test_ref_ptr_client_child_cpptoc.h">
       <Filter>libcef_dll\cpptoc\test</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\test\translator_test_ref_ptr_client_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\test\translator_test_ref_ptr_client_cpptoc.h">
       <Filter>libcef_dll\cpptoc\test</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\test\translator_test_scoped_client_child_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\test\translator_test_scoped_client_child_cpptoc.h">
       <Filter>libcef_dll\cpptoc\test</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\test\translator_test_scoped_client_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\test\translator_test_scoped_client_cpptoc.h">
       <Filter>libcef_dll\cpptoc\test</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\browser_view_delegate_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\browser_view_delegate_cpptoc.h">
       <Filter>libcef_dll\cpptoc\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\button_delegate_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\button_delegate_cpptoc.h">
       <Filter>libcef_dll\cpptoc\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\menu_button_delegate_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\menu_button_delegate_cpptoc.h">
       <Filter>libcef_dll\cpptoc\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\panel_delegate_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\panel_delegate_cpptoc.h">
       <Filter>libcef_dll\cpptoc\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\textfield_delegate_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\textfield_delegate_cpptoc.h">
       <Filter>libcef_dll\cpptoc\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\view_delegate_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\view_delegate_cpptoc.h">
       <Filter>libcef_dll\cpptoc\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\window_delegate_cpptoc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\cpptoc\views\window_delegate_cpptoc.h">
       <Filter>libcef_dll\cpptoc\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\auth_callback_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\auth_callback_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\before_download_callback_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\before_download_callback_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\binary_value_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\binary_value_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\browser_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\browser_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\browser_host_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\browser_host_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\callback_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\callback_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\command_line_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\command_line_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\context_menu_params_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\context_menu_params_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\cookie_manager_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\cookie_manager_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\ctocpp_ref_counted.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\ctocpp_ref_counted.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\ctocpp_scoped.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\ctocpp_scoped.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\dictionary_value_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\dictionary_value_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\domdocument_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\domdocument_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\domnode_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\domnode_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\download_item_callback_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\download_item_callback_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\download_item_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\download_item_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\drag_data_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\drag_data_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\file_dialog_callback_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\file_dialog_callback_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\frame_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\frame_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\geolocation_callback_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\geolocation_callback_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\image_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\image_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\jsdialog_callback_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\jsdialog_callback_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\list_value_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\list_value_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\menu_model_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\menu_model_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\navigation_entry_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\navigation_entry_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\post_data_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\post_data_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\post_data_element_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\post_data_element_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\print_dialog_callback_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\print_dialog_callback_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\print_job_callback_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\print_job_callback_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\print_settings_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\print_settings_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\process_message_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\process_message_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\request_callback_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\request_callback_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\request_context_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\request_context_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\request_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\request_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\resource_bundle_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\resource_bundle_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\response_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\response_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\run_context_menu_callback_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\run_context_menu_callback_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\scheme_registrar_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\scheme_registrar_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\select_client_certificate_callback_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\select_client_certificate_callback_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\sslinfo_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\sslinfo_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\sslstatus_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\sslstatus_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\stream_reader_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\stream_reader_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\stream_writer_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\stream_writer_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\task_runner_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\task_runner_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\thread_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\thread_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\urlrequest_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\urlrequest_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\v8context_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\v8context_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\v8exception_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\v8exception_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\v8stack_frame_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\v8stack_frame_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\v8stack_trace_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\v8stack_trace_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\v8value_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\v8value_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\value_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\value_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\waitable_event_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\waitable_event_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\web_plugin_info_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\web_plugin_info_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\x509cert_principal_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\x509cert_principal_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\x509certificate_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\x509certificate_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\xml_reader_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\xml_reader_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\zip_reader_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\zip_reader_ctocpp.h">
       <Filter>libcef_dll\ctocpp</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_ctocpp.h">
       <Filter>libcef_dll\ctocpp\test</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_ref_ptr_library_child_child_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_ref_ptr_library_child_child_ctocpp.h">
       <Filter>libcef_dll\ctocpp\test</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_ref_ptr_library_child_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_ref_ptr_library_child_ctocpp.h">
       <Filter>libcef_dll\ctocpp\test</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_ref_ptr_library_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_ref_ptr_library_ctocpp.h">
       <Filter>libcef_dll\ctocpp\test</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_scoped_library_child_child_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_scoped_library_child_child_ctocpp.h">
       <Filter>libcef_dll\ctocpp\test</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_scoped_library_child_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_scoped_library_child_ctocpp.h">
       <Filter>libcef_dll\ctocpp\test</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_scoped_library_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\test\translator_test_scoped_library_ctocpp.h">
       <Filter>libcef_dll\ctocpp\test</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\box_layout_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\box_layout_ctocpp.h">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\browser_view_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\browser_view_ctocpp.h">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\button_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\button_ctocpp.h">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\display_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\display_ctocpp.h">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\fill_layout_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\fill_layout_ctocpp.h">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\label_button_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\label_button_ctocpp.h">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\layout_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\layout_ctocpp.h">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\menu_button_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\menu_button_ctocpp.h">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\panel_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\panel_ctocpp.h">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\scroll_view_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\scroll_view_ctocpp.h">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\textfield_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\textfield_ctocpp.h">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\view_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\view_ctocpp.h">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\window_ctocpp.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\ctocpp\views\window_ctocpp.h">
       <Filter>libcef_dll\ctocpp\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_accessibility_handler.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_accessibility_handler.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_app.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_app.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_auth_callback.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_auth_callback.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_base.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_base.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_browser.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_browser.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_browser_process_handler.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_browser_process_handler.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_callback.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_callback.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_client.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_client.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_command_line.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_command_line.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_context_menu_handler.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_context_menu_handler.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_cookie.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_cookie.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_crash_util.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_crash_util.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_dialog_handler.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_dialog_handler.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_display_handler.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_display_handler.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_dom.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_dom.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_download_handler.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_download_handler.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_download_item.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_download_item.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_drag_data.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_drag_data.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_drag_handler.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_drag_handler.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_file_util.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_file_util.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_find_handler.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_find_handler.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_focus_handler.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_focus_handler.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_frame.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_frame.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_geolocation.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_geolocation.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_geolocation_handler.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_geolocation_handler.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_image.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_image.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_jsdialog_handler.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_jsdialog_handler.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_keyboard_handler.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_keyboard_handler.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_life_span_handler.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_life_span_handler.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_load_handler.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_load_handler.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_menu_model.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_menu_model.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_menu_model_delegate.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_menu_model_delegate.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_navigation_entry.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_navigation_entry.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_origin_whitelist.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_origin_whitelist.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_parser.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_parser.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_path_util.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_path_util.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_print_handler.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_print_handler.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_print_settings.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_print_settings.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_process_message.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_process_message.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_process_util.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_process_util.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_render_handler.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_render_handler.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_render_process_handler.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_render_process_handler.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_request.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_request.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_request_context.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_request_context.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_request_context_handler.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_request_context_handler.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_request_handler.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_request_handler.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_resource_bundle.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_resource_bundle.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_resource_bundle_handler.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_resource_bundle_handler.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_resource_handler.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_resource_handler.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_response.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_response.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_response_filter.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_response_filter.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_scheme.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_scheme.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_ssl_info.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_ssl_info.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_ssl_status.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_ssl_status.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_stream.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_stream.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_string_visitor.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_string_visitor.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_task.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_task.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_thread.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_thread.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_trace.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_trace.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_urlrequest.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_urlrequest.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_v8.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_v8.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_values.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_values.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_version.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_version.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_waitable_event.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_waitable_event.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_web_plugin.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_web_plugin.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_x509_certificate.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_x509_certificate.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_xml_reader.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_xml_reader.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_zip_reader.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_zip_reader.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\cef_sandbox_win.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\cef_sandbox_win.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_atomic_ref_count.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_atomic_ref_count.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_atomicops.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_atomicops.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_basictypes.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_basictypes.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_bind.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_bind.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_bind_helpers.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_bind_helpers.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_build.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_build.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_callback.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_callback.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_callback_forward.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_callback_forward.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_callback_helpers.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_callback_helpers.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_callback_list.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_callback_list.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_cancelable_callback.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_cancelable_callback.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_lock.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_lock.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_logging.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_logging.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_macros.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_macros.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_move.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_move.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_platform_thread.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_platform_thread.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_ref_counted.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_ref_counted.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_scoped_ptr.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_scoped_ptr.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_string16.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_string16.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_template_util.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_template_util.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_thread_checker.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_thread_checker.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_thread_collision_warner.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_thread_collision_warner.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_trace_event.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_trace_event.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_tuple.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_tuple.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\cef_weak_ptr.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\cef_weak_ptr.h">
       <Filter>include\base</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\internal\cef_bind_internal.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\internal\cef_bind_internal.h">
       <Filter>include\base\internal</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\internal\cef_callback_internal.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\internal\cef_callback_internal.h">
       <Filter>include\base\internal</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\internal\cef_lock_impl.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\internal\cef_lock_impl.h">
       <Filter>include\base\internal</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\internal\cef_raw_scoped_refptr_mismatch_checker.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\internal\cef_raw_scoped_refptr_mismatch_checker.h">
       <Filter>include\base\internal</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\internal\cef_thread_checker_impl.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\internal\cef_thread_checker_impl.h">
       <Filter>include\base\internal</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\internal\cef_atomicops_x86_msvc.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\internal\cef_atomicops_x86_msvc.h">
       <Filter>include\base\internal</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\base\internal\cef_bind_internal_win.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\base\internal\cef_bind_internal_win.h">
       <Filter>include\base\internal</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_accessibility_handler_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_accessibility_handler_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_app_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_app_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_auth_callback_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_auth_callback_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_base_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_base_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_browser_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_browser_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_browser_process_handler_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_browser_process_handler_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_callback_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_callback_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_client_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_client_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_command_line_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_command_line_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_context_menu_handler_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_context_menu_handler_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_cookie_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_cookie_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_crash_util_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_crash_util_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_dialog_handler_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_dialog_handler_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_display_handler_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_display_handler_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_dom_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_dom_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_download_handler_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_download_handler_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_download_item_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_download_item_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_drag_data_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_drag_data_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_drag_handler_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_drag_handler_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_file_util_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_file_util_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_find_handler_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_find_handler_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_focus_handler_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_focus_handler_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_frame_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_frame_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_geolocation_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_geolocation_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_geolocation_handler_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_geolocation_handler_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_image_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_image_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_jsdialog_handler_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_jsdialog_handler_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_keyboard_handler_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_keyboard_handler_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_life_span_handler_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_life_span_handler_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_load_handler_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_load_handler_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_menu_model_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_menu_model_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_menu_model_delegate_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_menu_model_delegate_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_navigation_entry_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_navigation_entry_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_origin_whitelist_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_origin_whitelist_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_parser_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_parser_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_path_util_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_path_util_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_print_handler_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_print_handler_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_print_settings_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_print_settings_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_process_message_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_process_message_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_process_util_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_process_util_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_render_handler_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_render_handler_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_render_process_handler_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_render_process_handler_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_request_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_request_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_request_context_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_request_context_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_request_context_handler_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_request_context_handler_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_request_handler_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_request_handler_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_resource_bundle_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_resource_bundle_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_resource_bundle_handler_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_resource_bundle_handler_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_resource_handler_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_resource_handler_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_response_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_response_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_response_filter_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_response_filter_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_scheme_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_scheme_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_ssl_info_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_ssl_info_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_ssl_status_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_ssl_status_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_stream_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_stream_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_string_visitor_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_string_visitor_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_task_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_task_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_thread_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_thread_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_trace_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_trace_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_urlrequest_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_urlrequest_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_v8_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_v8_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_values_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_values_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_waitable_event_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_waitable_event_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_web_plugin_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_web_plugin_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_x509_certificate_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_x509_certificate_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_xml_reader_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_xml_reader_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\cef_zip_reader_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\cef_zip_reader_capi.h">
       <Filter>include\capi</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\test\cef_translator_test_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\test\cef_translator_test_capi.h">
       <Filter>include\capi\test</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\views\cef_box_layout_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\views\cef_box_layout_capi.h">
       <Filter>include\capi\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\views\cef_browser_view_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\views\cef_browser_view_capi.h">
       <Filter>include\capi\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\views\cef_browser_view_delegate_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\views\cef_browser_view_delegate_capi.h">
       <Filter>include\capi\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\views\cef_button_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\views\cef_button_capi.h">
       <Filter>include\capi\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\views\cef_button_delegate_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\views\cef_button_delegate_capi.h">
       <Filter>include\capi\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\views\cef_display_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\views\cef_display_capi.h">
       <Filter>include\capi\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\views\cef_fill_layout_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\views\cef_fill_layout_capi.h">
       <Filter>include\capi\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\views\cef_label_button_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\views\cef_label_button_capi.h">
       <Filter>include\capi\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\views\cef_layout_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\views\cef_layout_capi.h">
       <Filter>include\capi\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\views\cef_menu_button_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\views\cef_menu_button_capi.h">
       <Filter>include\capi\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\views\cef_menu_button_delegate_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\views\cef_menu_button_delegate_capi.h">
       <Filter>include\capi\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\views\cef_panel_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\views\cef_panel_capi.h">
       <Filter>include\capi\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\views\cef_panel_delegate_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\views\cef_panel_delegate_capi.h">
       <Filter>include\capi\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\views\cef_scroll_view_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\views\cef_scroll_view_capi.h">
       <Filter>include\capi\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\views\cef_textfield_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\views\cef_textfield_capi.h">
       <Filter>include\capi\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\views\cef_textfield_delegate_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\views\cef_textfield_delegate_capi.h">
       <Filter>include\capi\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\views\cef_view_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\views\cef_view_capi.h">
       <Filter>include\capi\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\views\cef_view_delegate_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\views\cef_view_delegate_capi.h">
       <Filter>include\capi\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\views\cef_window_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\views\cef_window_capi.h">
       <Filter>include\capi\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\capi\views\cef_window_delegate_capi.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\capi\views\cef_window_delegate_capi.h">
       <Filter>include\capi\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\internal\cef_export.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\internal\cef_export.h">
       <Filter>include\internal</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\internal\cef_logging_internal.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\internal\cef_logging_internal.h">
       <Filter>include\internal</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\internal\cef_ptr.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\internal\cef_ptr.h">
       <Filter>include\internal</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\internal\cef_string.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\internal\cef_string.h">
       <Filter>include\internal</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\internal\cef_string_list.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\internal\cef_string_list.h">
       <Filter>include\internal</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\internal\cef_string_map.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\internal\cef_string_map.h">
       <Filter>include\internal</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\internal\cef_string_multimap.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\internal\cef_string_multimap.h">
       <Filter>include\internal</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\internal\cef_string_types.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\internal\cef_string_types.h">
       <Filter>include\internal</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\internal\cef_string_wrappers.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\internal\cef_string_wrappers.h">
       <Filter>include\internal</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\internal\cef_thread_internal.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\internal\cef_thread_internal.h">
       <Filter>include\internal</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\internal\cef_time.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\internal\cef_time.h">
       <Filter>include\internal</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\internal\cef_trace_event_internal.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\internal\cef_trace_event_internal.h">
       <Filter>include\internal</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\internal\cef_types.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\internal\cef_types.h">
       <Filter>include\internal</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\internal\cef_types_wrappers.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\internal\cef_types_wrappers.h">
       <Filter>include\internal</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\internal\cef_types_win.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\internal\cef_types_win.h">
       <Filter>include\internal</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\internal\cef_win.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\internal\cef_win.h">
       <Filter>include\internal</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\test\cef_translator_test.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\test\cef_translator_test.h">
       <Filter>include\test</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\views\cef_box_layout.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\views\cef_box_layout.h">
       <Filter>include\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\views\cef_browser_view.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\views\cef_browser_view.h">
       <Filter>include\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\views\cef_browser_view_delegate.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\views\cef_browser_view_delegate.h">
       <Filter>include\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\views\cef_button.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\views\cef_button.h">
       <Filter>include\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\views\cef_button_delegate.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\views\cef_button_delegate.h">
       <Filter>include\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\views\cef_display.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\views\cef_display.h">
       <Filter>include\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\views\cef_fill_layout.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\views\cef_fill_layout.h">
       <Filter>include\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\views\cef_label_button.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\views\cef_label_button.h">
       <Filter>include\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\views\cef_layout.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\views\cef_layout.h">
       <Filter>include\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\views\cef_menu_button.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\views\cef_menu_button.h">
       <Filter>include\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\views\cef_menu_button_delegate.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\views\cef_menu_button_delegate.h">
       <Filter>include\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\views\cef_panel.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\views\cef_panel.h">
       <Filter>include\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\views\cef_panel_delegate.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\views\cef_panel_delegate.h">
       <Filter>include\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\views\cef_scroll_view.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\views\cef_scroll_view.h">
       <Filter>include\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\views\cef_textfield.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\views\cef_textfield.h">
       <Filter>include\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\views\cef_textfield_delegate.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\views\cef_textfield_delegate.h">
       <Filter>include\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\views\cef_view.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\views\cef_view.h">
       <Filter>include\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\views\cef_view_delegate.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\views\cef_view_delegate.h">
       <Filter>include\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\views\cef_window.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\views\cef_window.h">
       <Filter>include\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\views\cef_window_delegate.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\views\cef_window_delegate.h">
       <Filter>include\views</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\wrapper\cef_byte_read_handler.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\wrapper\cef_byte_read_handler.h">
       <Filter>include\wrapper</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\wrapper\cef_closure_task.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\wrapper\cef_closure_task.h">
       <Filter>include\wrapper</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\wrapper\cef_helpers.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\wrapper\cef_helpers.h">
       <Filter>include\wrapper</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\wrapper\cef_message_router.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\wrapper\cef_message_router.h">
       <Filter>include\wrapper</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\wrapper\cef_resource_manager.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\wrapper\cef_resource_manager.h">
       <Filter>include\wrapper</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\wrapper\cef_scoped_temp_dir.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\wrapper\cef_scoped_temp_dir.h">
       <Filter>include\wrapper</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\wrapper\cef_stream_resource_handler.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\wrapper\cef_stream_resource_handler.h">
       <Filter>include\wrapper</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\wrapper\cef_xml_object.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\wrapper\cef_xml_object.h">
       <Filter>include\wrapper</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\include\wrapper\cef_zip_archive.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\include\wrapper\cef_zip_archive.h">
       <Filter>include\wrapper</Filter>
     </ClInclude>
-    <ClInclude Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper\cef_browser_info_map.h">
+    <ClInclude Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\wrapper\cef_browser_info_map.h">
       <Filter>libcef_dll\wrapper</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="E:\myproject\[Collection] workspace\Soui Cef By CefClient\Cef3071\libcef_dll\CMakeLists.txt" />
+    <CustomBuild Include="E:\myproject\[Collection] cef\Soui Cef By CefClient\Cef3071\libcef_dll\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Filter Include="libcef_dll\ctocpp\test">
-      <UniqueIdentifier>{D1A90DCE-7607-3CCC-8CFB-50BD7A030887}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="libcef_dll\ctocpp\views">
-      <UniqueIdentifier>{F8EC720B-2344-314B-83F7-AE313A7FE40F}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="include\capi\test">
-      <UniqueIdentifier>{CE34BBB3-21F7-31CF-A71F-F2C35E254E48}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="include\capi\views">
-      <UniqueIdentifier>{42C04DFD-8D2E-386D-A472-736B3104128B}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="include\base\internal">
-      <UniqueIdentifier>{A767445E-4BEF-3B54-9884-7DA7521CF719}</UniqueIdentifier>
-    </Filter>
     <Filter Include="libcef_dll\base">
-      <UniqueIdentifier>{EEDAA6C7-7A54-3D6C-843E-C317FEFA134C}</UniqueIdentifier>
+      <UniqueIdentifier>{683EC579-0EC1-3B25-B3E2-084F9B388BBE}</UniqueIdentifier>
     </Filter>
     <Filter Include="libcef_dll\cpptoc">
-      <UniqueIdentifier>{2B13680F-068B-36BA-B915-81BB5AF27E4E}</UniqueIdentifier>
+      <UniqueIdentifier>{01877F87-3DDF-35D9-A3F8-DECAA4DC09DD}</UniqueIdentifier>
     </Filter>
     <Filter Include="libcef_dll\ctocpp">
-      <UniqueIdentifier>{B8F14102-664A-314C-9729-A1E06302C07F}</UniqueIdentifier>
+      <UniqueIdentifier>{AA319F49-D0AF-36DA-9820-B3796C89F4C5}</UniqueIdentifier>
     </Filter>
     <Filter Include="libcef_dll\wrapper">
-      <UniqueIdentifier>{A7D934C3-AAA2-3C47-A4CF-5F741DF202D9}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="libcef_dll\cpptoc\test">
-      <UniqueIdentifier>{A2CBA4C7-A0C7-32DB-A8CC-99FE40C0873C}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="libcef_dll\cpptoc\views">
-      <UniqueIdentifier>{3FCA518D-615A-3573-B1B1-D739FAA9D144}</UniqueIdentifier>
+      <UniqueIdentifier>{1AD17E56-B5C1-366F-9FC9-1F7133057F42}</UniqueIdentifier>
     </Filter>
     <Filter Include="libcef_dll">
-      <UniqueIdentifier>{8DEE4C73-F40E-3F12-9586-00F18AEDFCC7}</UniqueIdentifier>
+      <UniqueIdentifier>{ECA35F2A-DF7C-3B29-B93E-C32845466842}</UniqueIdentifier>
     </Filter>
     <Filter Include="include">
-      <UniqueIdentifier>{E0B29BBA-6E51-313C-89C9-4FBCE2AE7059}</UniqueIdentifier>
+      <UniqueIdentifier>{C426BB9C-0A30-3524-884C-3AD0CDAA162D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\base\internal">
+      <UniqueIdentifier>{A2124597-5B0F-3088-A25C-E7E5DC71EFCB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libcef_dll\cpptoc\test">
+      <UniqueIdentifier>{B19F81F3-54E8-399C-ADB9-499EBBCF39BA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libcef_dll\cpptoc\views">
+      <UniqueIdentifier>{B231ED0B-DC60-3AA7-B9B9-F3CEAB8B8560}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libcef_dll\ctocpp\test">
+      <UniqueIdentifier>{43098558-9D1B-3033-98C0-C18336EE8DC9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libcef_dll\ctocpp\views">
+      <UniqueIdentifier>{7AEF7B33-5744-367B-98CA-EA6E203D615C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\capi\test">
+      <UniqueIdentifier>{931FFDB3-291A-3E6F-98BD-0536A4EB0990}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\capi\views">
+      <UniqueIdentifier>{3711760C-A536-392B-8E7E-D7EB3F26281F}</UniqueIdentifier>
     </Filter>
     <Filter Include="include\base">
-      <UniqueIdentifier>{C569AEA8-F0B6-3D0E-B215-540A13E70C9D}</UniqueIdentifier>
+      <UniqueIdentifier>{8682FAC4-D7F9-3750-AFB8-0C27D9EF06E6}</UniqueIdentifier>
     </Filter>
     <Filter Include="include\capi">
-      <UniqueIdentifier>{928EA13C-7818-3DCC-81C4-8F40ACF7B536}</UniqueIdentifier>
+      <UniqueIdentifier>{29E7CEB7-11FC-36A2-B6DC-3651BECEB337}</UniqueIdentifier>
     </Filter>
     <Filter Include="include\internal">
-      <UniqueIdentifier>{96A4D9A3-709D-3E1C-B86D-BFB481AE4582}</UniqueIdentifier>
+      <UniqueIdentifier>{0FF10574-09F0-3F83-9CD4-8BEA00E57552}</UniqueIdentifier>
     </Filter>
     <Filter Include="include\test">
-      <UniqueIdentifier>{BA86D6A6-289E-37F4-8BF0-3956D2071032}</UniqueIdentifier>
+      <UniqueIdentifier>{A60F0293-7280-3D25-AFFA-EDFE35A6E142}</UniqueIdentifier>
     </Filter>
     <Filter Include="include\views">
-      <UniqueIdentifier>{D1DCAFE0-8C69-3396-A170-ACAF12C0688D}</UniqueIdentifier>
+      <UniqueIdentifier>{635DFEC1-8172-3B37-A1DC-4D1C3A662BC9}</UniqueIdentifier>
     </Filter>
     <Filter Include="include\wrapper">
-      <UniqueIdentifier>{EEA1126B-9ADD-370B-9C04-239EF01BB774}</UniqueIdentifier>
+      <UniqueIdentifier>{A33C8C81-AD1F-3570-B336-88A99DA15BAC}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
